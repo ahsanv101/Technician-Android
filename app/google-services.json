@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "115214126022",
+    "firebase_url": "https://dawlance-trackin-1561463773038.firebaseio.com",
+    "project_id": "dawlance-trackin-1561463773038",
+    "storage_bucket": "dawlance-trackin-1561463773038.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115214126022:android:b5599a8062cdeaf2",
+        "android_client_info": {
+          "package_name": "com.google.transporttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115214126022-879srd4cs6av9hbnhjarabg9psh37ud6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.transporttracker",
+            "certificate_hash": "05ce37d62ad3baa9ad65bbe9945c1d43f7761aab"
+          }
+        },
+        {
+          "client_id": "115214126022-2re1kuu35hof2m6dvm9m9a1n0runo4ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVefNn0JXKRl6y29huLAnrCyEJZQPXWKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115214126022-2re1kuu35hof2m6dvm9m9a1n0runo4ha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

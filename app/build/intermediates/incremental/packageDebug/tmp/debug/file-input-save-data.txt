@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Jul 23 17:50:48 PKT 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\SN\\Desktop\\transport-tracker\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\441
+0.path=classes.dex
+0.set=DEX
+count=1
